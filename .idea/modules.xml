@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/_8_Collection_Framework/_6_Utilities/_6_Utilities.iml" filepath="$PROJECT_DIR$/_8_Collection_Framework/_6_Utilities/_6_Utilities.iml" />
       <module fileurl="file://$PROJECT_DIR$/_7_File_Handling/_7_File_Handling.iml" filepath="$PROJECT_DIR$/_7_File_Handling/_7_File_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8_Collection_Framework/_8_Collection_Framework.iml" filepath="$PROJECT_DIR$/_8_Collection_Framework/_8_Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9_Generics/_9_Generics.iml" filepath="$PROJECT_DIR$/_9_Generics/_9_Generics.iml" />
     </modules>
   </component>
 </project>
