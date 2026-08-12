@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/_1_Basics_Of_Java/1.iml" filepath="$PROJECT_DIR$/_1_Basics_Of_Java/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2_Arrays/Arrays.iml" filepath="$PROJECT_DIR$/_2_Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_19_Java_8Plus/_19_Java_8Plus.iml" filepath="$PROJECT_DIR$/_19_Java_8Plus/_19_Java_8Plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_Java_8Plus/_10_Java_8Plus.iml" filepath="$PROJECT_DIR$/_10_Java_8Plus/_10_Java_8Plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_Multithreading/_11_Multithreading.iml" filepath="$PROJECT_DIR$/_11_Multithreading/_11_Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8_Collection_Framework/_1_List/_1_List.iml" filepath="$PROJECT_DIR$/_8_Collection_Framework/_1_List/_1_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8_Collection_Framework/_2_Queue/_2_Queue.iml" filepath="$PROJECT_DIR$/_8_Collection_Framework/_2_Queue/_2_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8_Collection_Framework/_3_Set/_3_Set.iml" filepath="$PROJECT_DIR$/_8_Collection_Framework/_3_Set/_3_Set.iml" />
